@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100363975089",
+    "firebase_url": "https://openart-bc167-default-rtdb.firebaseio.com",
+    "project_id": "openart-bc167",
+    "storage_bucket": "openart-bc167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100363975089:android:832aa1aba5b0107aad6590",
+        "android_client_info": {
+          "package_name": "com.hkm.openart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100363975089-2cbgg73d7hd4p95mktbsmu9b8ud5len8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-wUSW5hyVNtE8URsw5I1lNrRk5zbciY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100363975089-2cbgg73d7hd4p95mktbsmu9b8ud5len8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
